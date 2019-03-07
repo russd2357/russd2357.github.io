@@ -1,0 +1,13 @@
+title: The Mestizo Waltz
+description: >
+  
+baseurl: "/blog"
+url: "https://github.com/russd2357/russd2357.github.io"
+paginate:	2 # The number of posts to show per page on your homepage
+name: "russd2357"
+markdown: kramdown
+permalink: none
+kramdown:
+  parse_block_html: true
+gems:
+  - jekyll-paginate
